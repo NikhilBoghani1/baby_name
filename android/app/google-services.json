@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435881170140",
+    "project_id": "baby-name-d4476",
+    "storage_bucket": "baby-name-d4476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435881170140:android:ac571d8f3974e515b35019",
+        "android_client_info": {
+          "package_name": "com.example.baby_name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzm9fZM81v-uVD5f_TMMhy0EFz1i0Fxto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
